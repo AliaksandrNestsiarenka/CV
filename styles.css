@@ -1,0 +1,68 @@
+body{
+    background-color: #d8f4f9;
+    font-size: 16px;
+}
+
+#avatar
+{
+    width: 300px;
+    border-radius: 50px;
+    border-style: solid;
+    margin-left: 68px;
+}
+
+h1{
+    font-size: 25px;
+}
+
+.container
+{
+    margin-left: auto;
+    margin-right: auto;
+    width: 440px;
+}
+
+#mainInfo
+{
+    background-color: red;
+    margin-left: 100px;
+}
+
+a
+{
+    color:black;
+}
+
+a:hover
+{
+    text-decoration: underline;
+}
+
+.info
+{
+    padding: 15px 20px;
+    margin-bottom: 15px;
+    background-color: #fff9dc;
+    border-radius: 20px;
+}
+
+.table
+{
+    width: 100%;
+}
+
+.table td
+{
+    padding-left: 2px;
+}
+
+#name
+{
+    text-align: center;
+}
+
+#role
+{
+    text-align: center;
+    font-weight: bold;
+}
